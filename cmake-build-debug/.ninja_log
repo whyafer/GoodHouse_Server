@@ -1,0 +1,18 @@
+# ninja log v5
+5	89	7320405347528983	Server_Clion_autogen/timestamp	2f49e4da1fa32cdc
+5	89	7320405347528983	Server_Clion_autogen/mocs_compilation.cpp	2f49e4da1fa32cdc
+5	89	7320405347528983	E:/C++QTDemo/GoodHouse/one_err/GoodHouseServer/Server_Clion/cmake-build-debug/Server_Clion_autogen/timestamp	2f49e4da1fa32cdc
+5	89	7320405347528983	E:/C++QTDemo/GoodHouse/one_err/GoodHouseServer/Server_Clion/cmake-build-debug/Server_Clion_autogen/mocs_compilation.cpp	2f49e4da1fa32cdc
+552	3139	7320390556781902	CMakeFiles/Server_Clion.dir/Server_Clion_autogen/mocs_compilation.cpp.obj	fbfcfcb6d7e30dc0
+561	3200	7320390557393151	CMakeFiles/Server_Clion.dir/tcpserver.cpp.obj	85e24347419f8529
+2061	2391	7320405369305116	Server_Clion.exe	cf35e477510b0b43
+91	2061	7320405367267384	CMakeFiles/Server_Clion.dir/main.cpp.obj	236b990d8b7599dc
+558	3259	7320390557981853	CMakeFiles/Server_Clion.dir/tcpclientsocket.cpp.obj	ef51f43dfbe7b6f2
+554	4558	7320390570973797	CMakeFiles/Server_Clion.dir/server.cpp.obj	e75ef62f7e7f5d46
+1	334	7320406468429882	build.ninja	9d54fbbf69ac414c
+6	93	7320414283939795	Server_Clion_autogen/timestamp	2f49e4da1fa32cdc
+6	93	7320414283939795	Server_Clion_autogen/mocs_compilation.cpp	2f49e4da1fa32cdc
+6	93	7320414283939795	E:/C++QTDemo/GoodHouse/one_err/GoodHouseServer/Server_Clion/cmake-build-debug/Server_Clion_autogen/timestamp	2f49e4da1fa32cdc
+6	93	7320414283939795	E:/C++QTDemo/GoodHouse/one_err/GoodHouseServer/Server_Clion/cmake-build-debug/Server_Clion_autogen/mocs_compilation.cpp	2f49e4da1fa32cdc
+95	1980	7320414302829859	CMakeFiles/Server_Clion.dir/main.cpp.obj	236b990d8b7599dc
+1980	2302	7320414304813149	Server_Clion.exe	cf35e477510b0b43
